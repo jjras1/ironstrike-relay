@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/attest.php", "destination": "/api/attest" },
+    { "source": "/nonce.php",  "destination": "/api/nonce" }
+  ]
+}
